@@ -1,3 +1,7 @@
-# turtle_help
-This is a moudule for python 3.X,make with turtle,it can make things without using a lot of code of turtle
-download address:https://pypi.org/project/turtle-help/1.2.2/#files
+\#turtle\_help
+
+It is a easy way of "turtle",which need some few scripts to draw
+square,rectangle,triangle......so,turtle\_help will help with this sort
+of things.
+
+I'll make it more helpful in the future,thanks for supporting
